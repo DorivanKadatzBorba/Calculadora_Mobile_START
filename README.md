@@ -3,4 +3,6 @@
 
 ## Capturas de Tela
 
-![Tela Principal](calculator/screenshots/tela_principal.png){: width="200px" height="150px"}
+<img src="calculator/screenshots/tela_principal.png" alt="Tela Principal" width="200" height="150">
+
+
