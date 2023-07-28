@@ -3,4 +3,4 @@
 
 ## Capturas de Tela
 
-![Tela Principal](screenshots/tela_principal.png)
+![Tela Principal](calculator/screenshots/tela_principal.png)
