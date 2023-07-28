@@ -3,6 +3,6 @@
 
 ## Capturas de Tela
 
-<img src="calculator/screenshots/tela_principal.png" alt="Tela Principal" width="760" height="360">
+<img src="calculator/screenshots/tela_principal.png" alt="Tela Principal" width="360" height="760">
 
 
