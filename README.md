@@ -1,4 +1,4 @@
-# Calculadora_START
+# Calculadora_Mobile_START
  O App foi desenvolvido com intuito de obter experiência e aprendizado com React Native e JavaScript, ele pode
  fazer calculos básicos como adição, subtração, multiplicação e divisão com numeros
  naturais e racionais.
